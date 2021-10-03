@@ -1,3 +1,1 @@
-# react-h6x8dz
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-h6x8dz)
+A simple Todo List using React
